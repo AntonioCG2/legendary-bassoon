@@ -1,19 +1,12 @@
-# legendary-bassoon
-P04 de Entornos de Desarrollo 
 
-# Encabezado grande
+# P04 de Entornos de Desarrollo
 
-## Encabezado un poco mas pequeño
+## legendary-bassoon
 
-### Encabezado de tercer nivel
-
-#### Ect....
+### By: Antonio Canovas Garcia
 
 
-
-# Titulo del proyecto
-
-_Aqui me va a hacer una linea_
+_CURSIVA_
 
 **Texto en negrita**
 
@@ -21,4 +14,26 @@ _Aqui me va a hacer una linea_
 git ignore
 ````
 [Emojis Github](https://gist.github.com/rxaviers/7360908)
+
+### Emoji de ejemplo
+👌👌👌👌
+
+Este es un ejemplo de lista no numerada:
+- Leche
+- Huevos
+- Pan
+
+Y este es un ejemplo de lista numerada:
+1. Comida para el perro
+2. Comida para el otro perro
+3. Comida para el gato
+4. Comida para mi (opcional)
+
+
+## Y hasta aqui mi practica ## 
+![This is an image](https://media.tenor.com/wsChytFfrS4AAAAd/monki-flip-monkey.gif)
+
+
+
+
 
