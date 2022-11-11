@@ -31,7 +31,7 @@ Y este es un ejemplo de lista numerada:
 
 
 ## Y hasta aqui mi practica ## 
-![This is an image](https://media.tenor.com/wsChytFfrS4AAAAd/monki-flip-monkey.gif)
+![This is an image](/img/monki-flip-monkey.gif)
 
 
 
